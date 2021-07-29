@@ -7,4 +7,8 @@ This app is deployed using a FireBase server to demonstrate a live usage of this
 You can run this application by going through this link- https://react-my-burger-595da.web.app/
 
 Screenshots:
+Main Page:
 ![Overview](https://user-images.githubusercontent.com/78310444/127474976-97e124d7-0045-474f-96bf-b5ee273ceda3.PNG)
+
+Order Page:
+![Orderdetail](https://user-images.githubusercontent.com/78310444/127475725-17e819b4-f4b6-4a01-904c-56c560b71ba8.PNG)
