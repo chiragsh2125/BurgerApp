@@ -4,7 +4,7 @@ This  Burger builder application is built using React Js and ReduxJs. The applic
 
 This app is deployed using a FireBase server to demonstrate a live usage of this application 
 
-You can run this application by going through this link- https://react-my-burger-595da.web.app/
+Demo link- https://react-my-burger-595da.web.app/
 
 Screenshots:
 Main Page:
